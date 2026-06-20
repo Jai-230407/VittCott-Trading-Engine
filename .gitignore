@@ -1,0 +1,9 @@
+*.exe
+*.o
+*.obj
+*.log
+trades.csv
+audit.log
+build/
+.vscode/
+.DS_Store
